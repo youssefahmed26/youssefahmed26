@@ -1,7 +1,10 @@
-# 👋 Hi, I'm @youssefahmed26
+                                                          # 👋 Hi, I'm @youssefahmed26
 ## Front-end developer
-- 🌱 I am currently learning the front end
-- 💞️ I look forward to cooperation in software companies
+## About
+-🌱 My name is youssef, I am front-end developer
+- 👨‍💻I'm still studying , Computer science and information systems.
+- welcome to my GitHub home page
+-⚡ I know HTML CSS and JavaScript.
 - 📫 How to reach me via LinkedIn or Facebook
 
 <!---
