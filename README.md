@@ -1,5 +1,5 @@
 # 👋 Hi, I'm @youssefahmed26
-- **Front-end developer**
+## Front-end developer
 - 🌱 I am currently learning the front end
 - 💞️ I look forward to cooperation in software companies
 - 📫 How to reach me via LinkedIn or Facebook
