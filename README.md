@@ -5,7 +5,7 @@ ________________________________________________________________________________
 ## About
 ___________________________________________________________
 -🌱 My name is youssef, I am front-end developer.
--👨‍💻I'm still studying , Computer science and information systems
+-👨‍💻I'm still studying , Computer science and information systems.
 - welcome to my GitHub home page.
 -⚡ I know HTML CSS and JavaScript.
 
